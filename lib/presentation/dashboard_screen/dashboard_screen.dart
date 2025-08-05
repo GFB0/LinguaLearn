@@ -24,7 +24,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
 
   // Mock user data
   final Map<String, dynamic> userData = {
-    "userName": "Maria Silva",
+    "userName": "Guilherme",
     "currentStreak": 7,
     "weeklyProgress": 0.68,
     "motivationalMessage":
